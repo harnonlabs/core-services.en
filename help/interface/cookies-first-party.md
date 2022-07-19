@@ -51,7 +51,7 @@ Here is how you implement a new first-party SSL certificate for first-party data
     **Secure** - For example, the hostname `smetrics.example.com` points to: `example.com.adobedc.net`.
 
 >[!NOTE]
-> In the past, Adobe recommended that customers setup two CNAME, one for HTTPS and one for HTTP. Since it is a best practice to encrypt traffic and most browsers are strongly discouraging HTTP, we no longer recommend setting up a CNAME for HTTP. If you need to configure your CNAME for HTTP, please reach out to Adobe Customer Care. 
+> In the past, Adobe recommended that customers setup two CNAME, one for HTTPS and one for HTTP. Since it is a best practice to encrypt traffic and most browsers are strongly discouraging HTTP, we no longer recommend setting up a CNAME for HTTP. Contact Adobe Customer Care to configure your CNAME for HTTP.
 
 1. When the CNAME is in place, Adobe works with DigiCert to purchase and install a certificate on Adobe's production servers.
 
@@ -71,8 +71,8 @@ SSL certificates expire each year, meaning Adobe must purchase a new certificate
 |---|---|
 |**Is this process secure?**|Yes, the Adobe-Managed program is more secure than our legacy method as no certificate or private key changes hands outside of Adobe and the issuing certificate authority.|
 |**How can Adobe purchase a certificate for our domain?**|The certificate can only be purchased when you have pointed the specified hostname (for example, `telemetry.example.com`) to an Adobe owned hostname. This is essentially delegating this hostname to Adobe and allows Adobe to purchase the certificate on your behalf.|
-|**Can I request that the certificate be revoked?**|Yes, as the owner of the domain, you are entitled to request we have the certificate revoked. You will only need to open a ticket with Customer Care to have this completed.|
-|**Will this certificate be using SHA-2 encryption?**|Yes, Adobe will work with DigiCert to issue a SHA-2 certificate.|
+|**Can I request that the certificate be revoked?**|Yes, as the owner of the domain, you are entitled to request that the certificate is revoked. Open a ticket with Customer Care to have this completed.|
+|**Will this certificate be using SHA-2 encryption?**|Yes, Adobe works with DigiCert to issue a SHA-2 certificate.|
 |**Does this incur any additional cost?**|No, Adobe is offering this service to all current Adobe Digital Experience customers at no additional cost.|
 
 {style="table-layout:auto"}

@@ -41,7 +41,7 @@ For more assistance, [Contact Adobe Support](https://experienceleague.adobe.com/
 
 No. The Experience Cloud is included at no additional charge. However, certain core services might have additional costs.
 
-## Why does my company need to log in through the Experience Cloud interface?
+## Why must my company sign in through the Experience Cloud interface?
 
 The functionality provided by the Experience Cloud interface adds new value to your business. It also is the standard path for accessing applications going forward, eventually replacing other individual application login flows. Logging in through Experience Cloud facilitates a smoother transition later.
 
@@ -76,11 +76,11 @@ Provisioning in the Experience Cloud means:
 
 Admin Console administrators can grant access to users. Users are sent emails with sign-in instructions. 
 
-You might need to [Contact Adobe Support](https://experienceleague.adobe.com/?support-solution=General#support) to verify that your company has been fully provisioned.
+You might have to [Contact Adobe Support](https://experienceleague.adobe.com/?support-solution=General#support) to verify that your company has been fully provisioned.
 
 ## Where can a user go to manage account linking?
 
-Some users might need to link their application (Analytics) account to the Adobe ID or Enterprise ID. 
+Some users might be required to link their application (Analytics) account to the Adobe ID or Enterprise ID. 
 
 See [Link an application account to an Adobe ID](organizations.md#task_FD389E78640848919E247AC5E95B8369). 
 

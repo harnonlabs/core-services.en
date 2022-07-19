@@ -20,7 +20,7 @@ An *organization* (Org ID) is the entity that enables an administrator to config
 
 To verify that you have logged in to your correct organization, click on your profile avatar to see organization name. If you have access to more than one organization, you can also view and switch to another organization right in the header bar. 
 
-If your organization uses Federated IDs, Experience Cloud allows you to sign in with your organization's single sign-on without the need to enter your email address and password. To do this, add `#/sso:@domain` to the Experience Cloud URL (`https://experience.adobe.com`). 
+If your organization uses Federated IDs, Experience Cloud allows you to sign in with your organization's single sign-on without being required to enter your email address and password. Add `#/sso:@domain` to the Experience Cloud URL (`https://experience.adobe.com`) to accomplish this task.
     
 For example, for an organization with Federated IDs and the domain `adobecustomer.com`, set your URL link to `https://experience.adobe.com/#/sso:@adobecustomer.com`. You can also go directly to a specific application by bookmarking this URL, appended with the application path. (For example, for Adobe Analytics, `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.)
 
@@ -28,7 +28,7 @@ For example, for an organization with Federated IDs and the domain `adobecustome
 
 ## View your organization ID {#concept_EA8AEE5B02CF46ACBDAD6A8508646255}
 
-You might need to locate your assigned organization ID for support purposes. You can verify that you are in the correct organization, or switch between organizations, using the **[!UICONTROL Organization]** menu.
+You can locate your assigned organization ID for support purposes. You can verify that you are in the correct organization, or switch between organizations, using the **[!UICONTROL Organization]** menu.
 
 The organization ID is the ID associated with your provisioned Experience Cloud company. This ID is a 24-character alphanumeric string, followed by (and must include) `@AdobeOrg`.
 
@@ -54,7 +54,7 @@ You can view your organization ID, along with other account information, using a
 
 ## Link an application account to an Adobe ID {#task_FD389E78640848919E247AC5E95B8369}
 
-Typically, Experience Cloud administrators grant access to applications and services. In rare circumstances, you may need to link application credentials to an Adobe ID.
+Typically, Experience Cloud administrators grant access to applications and services. In rare circumstances, you can link application credentials to an Adobe ID.
 
 1. Follow the steps in your email invitation to the Experience Cloud.
 1. Log in using your Adobe ID or Enterprise ID.
