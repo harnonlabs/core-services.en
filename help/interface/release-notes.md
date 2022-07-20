@@ -20,6 +20,10 @@ For release notes covering all applications, see [Experience Cloud Release Notes
 
 ## July - 2022
 
+**Provisioning update notice for administrators**
+
+* See [Provisioning update notice](admin-getting-started.md#provisioning) for important updates to provisioning in Experience Cloud.
+
 Planned release: **July 11, 2022**
 
 | Feature | Description |

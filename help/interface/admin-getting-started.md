@@ -19,6 +19,52 @@ Learn about signing in to the Admin Console, managing Experience Cloud user perm
 
 You can view a sortable and filterable list of all Experience Cloud users and their details in the Admin Tool. See [View Experience Cloud users in the Admin Tool](admin-tool-experience-cloud.md).
 
+## Provisioning update notice{#provisioning}
+
+Updated: **July 20, 2022**
+
+>[!IMPORTANT]
+>
+>Please review the following notice regarding Experience Cloud provisioning.
+
+Adobe is updating its provisioning to provide all Experience Cloud customers access to foundational capabilities that aid interoperability between some Experience Cloud products. Users will have Adobe Experience Platform as a new entitlement added to their Experience Cloud organizations, with [!UICONTROL Data Collection] as an included service. 
+
+Adobe Experience Platform [!UICONTROL Data Collection] includes [tags](https://experienceleague.adobe.com/docs/tags.html?lang=en) for simplified universal tag management, and offers a trusted, robust, and complete, streaming data infrastructure. Tags simplify customer experience data collection and streamlines experience delivery. 
+
+**Changes in Admin Console**
+
+Administrators could see changes or additions to the Admin Console as follows:
+
+* The Adobe Experience Platform product card in the Admin Console will include:
+
+  * Places
+  * Assurance
+  * Identity Namespace
+  * Sandboxes
+  * Experience Data Model
+  * Schemas
+  * Datastreams
+  * Visitor ID
+
+   For organizations that are not currently using Experience Platform, you will now see the _Adobe Experience Platform_ product in the Admin Console, including the capabilities listed above.
+
+   For organizations currently using Experience Platform, _Places_ will now be consolidated into the Experience Platform card.
+
+* Adobe Experience Platform Data Collection (formerly, Launch) and Privacy will continue to appear as separate product cards from the other Experience Platform capabilities.
+
+For more details about the new capabilities, please visit their respective pages on Experience League: 
+
+* [Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
+* [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=en)
+* [Assurance](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html%3Flang%3Dde)
+* [Identity Namespace](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=en)
+* [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=en)
+* [Experience Data Model](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html)
+* [Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
+* [Datastreams](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=en)
+* [Visitor ID](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
+* [Privacy](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=en)
+
 ## Experience Cloud user authentication (planned migration){#migration}
 
 Beginning in February 2022, Adobe is updating its profile management system to allow organizations to better manage business entitlements to individual profiles. As such, all users with a Personal Profile, which corresponds to an individual Adobe ID (Type1), will be migrated to a new Business Profile. This profile corresponds to a _Business ID_ (Type2e).
@@ -29,7 +75,7 @@ See [Identity types on Adobe Admin Console](https://helpx.adobe.com/enterprise/u
 
 When it's time for your migration, organization administrators will receive a notification email 30 days prior to the migration.
 
-* Migration will be scheduled between 10 p.m. – 6 a.m., based on organization’s primary time zone or on the weekend.
+* Migration will be scheduled between 10 p.m. - 6 a.m., based on organization’s primary time zone or on the weekend.
 * During the migration, Experience Cloud application may be inaccessible for approximately 15 minutes and Admin Console may be inaccessible up to 30 minutes. Otherwise, this migration will be seamless.
 
 ### Changes after the migration
