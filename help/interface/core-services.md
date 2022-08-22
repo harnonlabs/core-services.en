@@ -113,7 +113,7 @@ The Customer ID must be set on each [!DNL Analytics] server call where the Custo
 
 #### Analytics: synching the customer ID with the Data Warehouse backfill method
 
-When Customer Attributes first became available, some customers had not yet implemented the Experience Cloud ID service and could not easily utilize Customer Attributes. To help alleviate this problem Adobe created a means to do a backfill of ID syncs using the Adobe Analytics data warehouse. This feature is known as the "data warehouse backfill". The data warehouse backfill is now generally not necessary and as a result will no longer be available starting in October 2022.
+When Customer Attributes first became available, some customers had not yet implemented the Experience Cloud ID service and could not easily utilize Customer Attributes. To help alleviate this problem, Adobe created a means to do a backfill of ID syncs using the Adobe Analytics data warehouse. This feature is known as the "data warehouse backfill". The data warehouse backfill is now generally not necessary and as a result will no longer be available starting in October 2022.
 
 
 ### Mobile SDKs
