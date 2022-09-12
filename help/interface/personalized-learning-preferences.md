@@ -34,7 +34,7 @@ You can update your selections at any time in [User Preference Settings](https:/
 |Personalized information about Adobe products, services, events, and promotions |||
 |Receive tailored opportunities for learning events, research sessions, and integrations based on your work in each of these three ways...   |||
 |--- |--- |--- |
-|In your Adobe products... |See pop ups and tool tips for invitations and opportunities relevant to you. |This could include... <ul><li>Step by step guides and helpful tips from Adobe experts</li> <li>Video tutorials and informational walkthroughs</li> <li>In-depth training and education</li> <li>Recommendations for videos and posts</li></ul> | 
+|In your Adobe products... |See pop ups and tool tips for invitations and opportunities relevant to you. |This could include... <ul><li>Invitations to educational webinars and events</li> <li>Opportunities to test and give input on future releases of the features you use</li> <li>Tips to use integrations between products you own</li> <li>Highlights for key sessions at the Adobe Summit conference based on your work</li></ul> | 
 |In email Adobe sends you... |Get timely information from Adobe about additional learning opportunities. |^|
 |In the Experience League Communities... |See personalized recommendations for events and services to enhance your learning. |^|
 
