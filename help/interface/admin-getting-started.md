@@ -56,7 +56,7 @@ For more details about the new capabilities, please visit their respective pages
 
 * [Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
 * [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=en)
-* [Assurance](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html%3Flang%3Dde)
+* [Assurance](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html)
 * [Identity Namespace](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=en)
 * [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=en)
 * [Experience Data Model](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html)
@@ -75,7 +75,7 @@ See [Identity types on Adobe Admin Console](https://helpx.adobe.com/enterprise/u
 
 When it's time for your migration, organization administrators will receive a notification email 30 days prior to the migration.
 
-* Migration will be scheduled between 10 p.m. - 6 a.m., based on organization’s primary time zone or on the weekend.
+* Migration will be scheduled between 10 p.m. - 6 a.m., based on organization's primary time zone or on the weekend.
 * During the migration, Experience Cloud application may be inaccessible for approximately 15 minutes and Admin Console may be inaccessible up to 30 minutes. Otherwise, this migration will be seamless.
 
 ### Changes after the migration
@@ -224,7 +224,7 @@ See [Administration](https://experienceleague.adobe.com/docs/audience-manager/us
 
 ## Supported browsers in the Experience Cloud
 
-* [!DNL Microsoft® Edge] (Microsoft® has [ended support](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support) for Internet Explorer 8, 9, and 10. As such, Adobe does not fix issues reported against these specific versions of Internet Explorer.)
+* [!DNL Microsoft&reg; Edge] (Microsoft&reg; has [ended support](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support) for Internet Explorer 8, 9, and 10. As such, Adobe does not fix issues reported against these specific versions of Internet Explorer.)
 * [!DNL Google Chrome]
 * [!DNL Firefox]
 * [!DNL Safari]
