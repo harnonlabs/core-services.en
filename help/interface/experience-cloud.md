@@ -49,7 +49,7 @@ Sign in and verify that you are in the right [organization](organizations.md).
 
 After signing in to Experience Cloud, you can quickly access all your applications, services, and organizations from the unified header.
 
-To access Experience Cloud applications and services provisioned for you within your organization, go the application selector ![](assets/menu-icon.png).
+To access Experience Cloud applications and services provisioned for you within your organization, go the application selector ![menu](assets/menu-icon.png).
 
 ![Access Experience Cloud applications](assets/platform-core-services.png)
 
@@ -108,7 +108,7 @@ Experience Cloud preferences include notifications, subscriptions, and alerts. I
 * Sign out
 * Configure account preferences, notifications, and subscriptions
 
-To manage preferences, select **[!UICONTROL Preferences]** from your account menu ![](assets/preferences-icon-sm.png).
+To manage preferences, select **[!UICONTROL Preferences]** from your account menu ![preferences](assets/preferences-icon-sm.png).
 
 ![User profile and account preferences](assets/preferences-page.png)
 
@@ -132,7 +132,7 @@ Select **[!UICONTROL Notifications]** to be alerted about relevant and actionabl
 
 ## Experience Cloud domains {#domains}
 
-Experience Cloud uses the following hosts to deliver the application, improve performance and product experience. Adobe recommends adding these domains to your firewall’s allowed list for an optimal experience. Additional domains may also be in use for specific Experience Cloud applications, such as Adobe Analytics. Check documentation for those applications for more information.
+Experience Cloud uses the following hosts to deliver the application, improve performance and product experience. Adobe recommends adding these domains to your firewall's allowed list for an optimal experience. Additional domains may also be in use for specific Experience Cloud applications, such as Adobe Analytics. Check documentation for those applications for more information.
 
 | Technology | Domains |
 |--- |--- |

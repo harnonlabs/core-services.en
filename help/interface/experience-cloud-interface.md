@@ -68,7 +68,7 @@ Sign in and verify that you are in the right [organization](organizations.md).
 
 After signing in to Experience Cloud, you can quickly access all your applications, services, and organizations from the unified header.
 
-Select the application selector ![](assets/menu-icon.png) to access Experience Cloud services that you own.
+Select the application selector ![menu](assets/menu-icon.png) to access Experience Cloud services that you own.
 
 ![Access Experience Cloud applications](assets/platform-core-services.png)
 
@@ -98,7 +98,7 @@ In the account preferences menu, you can:
 
 Experience Cloud preferences include notifications, subscriptions, and alerts. 
 
-Select **[!UICONTROL Preferences]** from your account menu ![](assets/preferences-icon-sm.png) to manage preferences.
+Select **[!UICONTROL Preferences]** from your account menu ![preferences](assets/preferences-icon-sm.png) to manage preferences.
 
 ![Manage Experience Cloud](assets/preferences-page.png)
 

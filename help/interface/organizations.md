@@ -58,7 +58,7 @@ Typically, Experience Cloud administrators grant access to applications and serv
 
 1. Follow the steps in your email invitation to the Experience Cloud.
 1. Log in using your Adobe ID or Enterprise ID.
-1. Select the application selector. ( ![](assets/menu-icon.png)).
+1. Select the application selector. ( ![menu](assets/menu-icon.png)).
 
    ![Link an application account to an Adobe ID](assets/solutions-active.png)
 

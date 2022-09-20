@@ -61,7 +61,7 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
 >
 >When creating, modifying, or deleting Customer Attribute sources, there is a delay of up to one hour before IDs begin synchronizing with the new data source. You must have administrative rights in Audience Manager to create or modify Customer Attribute sources. Contact Audience Manager Customer Care or consulting to obtain administrative rights.
 
-1. In the [!DNL Experience Cloud], select the Menu  ![](assets/menu-icon.png) icon.
+1. In the [!DNL Experience Cloud], select the Menu  ![menu](assets/menu-icon.png) icon.
 1. Under **[!DNL Experience Platform]**, select **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**.
 
    The [!UICONTROL Customer Attributes] page is where you can manage and edit existing attribute data sources. 
@@ -96,7 +96,7 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
                
           `[ADBMobile visitorSyncIdentifiers:@{@<`**`"idType"`**`:@"idValue"}];` 
         
-        * **Android™:** The Alias ID corresponds to *"idType"* in [syncIdentifiers](https://experienceleague.adobe.com/docs/mobile-services/android/overview.html?lang=en). 
+        * **Android&trade;:** The Alias ID corresponds to *"idType"* in [syncIdentifiers](https://experienceleague.adobe.com/docs/mobile-services/android/overview.html?lang=en). 
         
           For example: 
         
@@ -115,7 +115,7 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
     
       **File upload graphic** 
     
-      ![](assets/file_upload_attributes.png) 
+      ![attributes](assets/file_upload_attributes.png) 
     
     * **[!UICONTROL Unique Customer ID:]** Displays how many unique IDs you have uploaded to this attribute source. 
     

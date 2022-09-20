@@ -22,7 +22,7 @@ Signing in to Experience Cloud (rather than signing into a single application) e
 
 Sign in and verify that you are in the right [organization](organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1).
 
-1. Select the Experience Cloud menu ( ![](assets/menu-icon.png)), then select **[!UICONTROL Administration]**.
+1. Select the Experience Cloud menu ( ![preferences](assets/menu-icon.png)), then select **[!UICONTROL Administration]**.
 
    If the **[!UICONTROL Administration]** link is not shown, you are not an Experience Cloud administrator for the displayed [organization](organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1). For assistance with becoming an administrator, contact Customer Care or an existing Experience Cloud administrator in your company.
 1. Select **[!UICONTROL Administration]**.
@@ -54,9 +54,9 @@ Help for non-administrative users signing in to the Experience Cloud.
 
    Your Experience Cloud administrator can help you determine the type of account (Adobe ID or Enterprise ID). 
 
-1. On your landing page, select the selector icon  ![](assets/menu-icon.png) to access the pull-down menu.
+1. On your landing page, select the selector icon  ![menu](assets/menu-icon.png) to access the pull-down menu.
 
-   ![](assets/experience-cloud-core-services.png) 
+   ![menu](assets/experience-cloud-core-services.png) 
 
    The applications and services that display in this menu depend on your application privileges defined by your [administrator](admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909). 
 
@@ -76,7 +76,7 @@ You can edit personal details and specify a default [organization](admin-getting
 
 Get notified (via email or in-product) about system updates, maintenance notices, posts, mentions, and assets shared. You can also specify the products and applications for which you want notifications, including the upload status for Customer Attributes.
 
-To navigate to Notifications, select the **[!UICONTROL Notifications]** icon  ![](assets/notifications-icon.png), then select the **[!UICONTROL Settings]** icon  ![](assets/icon_edit_board.png). 
+To navigate to Notifications, select the **[!UICONTROL Notifications]** icon  ![notifications](assets/notifications-icon.png), then select the **[!UICONTROL Settings]** icon  ![edit](assets/icon_edit_board.png). 
 
 You can sort the Notifications display based on the message types that are important to you, and search for notifications. You can also: 
 
