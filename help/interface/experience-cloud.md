@@ -3,7 +3,7 @@ description: Learn about central interface components for Experience Cloud. This
 solution: Experience Cloud
 title: Experience Cloud interface help and documentation
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
-feature: "Customer Attributes"
+feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced

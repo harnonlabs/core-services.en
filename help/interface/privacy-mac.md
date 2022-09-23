@@ -1,6 +1,5 @@
 ---
-description: Considerations and best practices regarding personally identifiable information (PII) uploaded and used in Experience Cloud.
-keywords: Customer Attributes;core services
+description: Learn the considerations and best practices regarding personally identifiable information (PII) uploaded and used in Experience Cloud.
 solution: Experience Cloud
 title: Privacy considerations for Customer Attributes 
 uuid: 5666dc4e-55fa-4196-9985-cf530cfb9247

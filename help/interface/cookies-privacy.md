@@ -1,6 +1,5 @@
 ---
 description: Learn about cookies and privacy in Adobe Experience Cloud solutions and services.
-keywords: cookies;privacy
 solution: Experience Cloud,Analytics,Target
 title: Cookies and privacy 
 uuid: 7fb36845-6282-438a-bbc6-0c3cf95de1c9

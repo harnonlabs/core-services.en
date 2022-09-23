@@ -1,6 +1,5 @@
 ---
 description: Learn about the Experience Cloud Admin Tool. View a sortable and filterable list of all Experience Cloud users and policies.
-keywords: core services
 application: Experience Cloud
 title: View Experience Cloud users and user details 
 index: yes
@@ -12,7 +11,7 @@ exl-id: 127eecdd-3862-48ba-8cf6-a8082d2b7bae
 ---
 # View Experience Cloud users and policies in the Admin Tool
 
-Administrators can view a sortable and filterable list of all Experience Cloud users and policies with details in the Admin Tool. User details include a user’s product access, roles, and last accessed information. Policy details include a policy's (product profile) user, group, developer, integration and admin list, as well as detailed permission and resource information for the policy. 
+Administrators can view a sortable and filterable list of all Experience Cloud users and policies with details in the Admin Tool. User details include a user's product access, roles, and last accessed information. Policy details include a policy's (product profile) user, group, developer, integration and admin list, as well as detailed permission and resource information for the policy. 
 
 >[!NOTE]
 >
@@ -40,7 +39,7 @@ This page displays complete list of users with access to Experience Cloud in you
 |[!UICONTROL Email] |The email address associated with the user. Column can be sorted A->Z, Z->A.|
 |[!UICONTROL ID Type] |The identity type for the user's account. Filter can be applied to view specific ID types. See [Manage identity types](https://helpx.adobe.com/enterprise/using/identity.html) for more information.|
 |[!UICONTROL Solutions] |Summary of Experience Cloud applications that the user can access. You can apply filters to narrow down list of users with specific application access.|
-|[!UICONTROL Last Login] |Time and Date of the most recent user login to the Experience Cloud. This column can be sorted by ascending or descending dates. <br> **Important:** As of January 13, 2020 a user’s last login data will be kept for 365 days. This information is intended to show current login activity in the Experience Cloud and not a recommendation to take action on inactive accounts prior to January 13, 2020. |
+|[!UICONTROL Last Login] |Time and Date of the most recent user login to the Experience Cloud. This column can be sorted by ascending or descending dates. <br> **Important:** As of January 13, 2020 a user's last login data will be kept for 365 days. This information is intended to show current login activity in the Experience Cloud and not a recommendation to take action on inactive accounts prior to January 13, 2020. |
 
 ## Customize the user list view
 
@@ -62,7 +61,7 @@ On the [!UICONTROL Users] page, to view a user's details, select the user's emai
 
 ![View user details in Admin Console](assets/admin-tool-user-details.png)
 
-A detailed view of each user displays important details about the user’s application access, admin and product roles, and last accessed information.
+A detailed view of each user displays important details about the user's application access, admin and product roles, and last accessed information.
 
 ## About section
 
@@ -125,7 +124,7 @@ On the [!UICONTROL Policies] page, to view a policy's details, select the produc
 
 ![View policy details in Admin Console](assets/admin-tool-policy-detail.png)
 
-A detailed view of each product profile displays important details about the product profile’s subjects (users, groups, and so on). It also displays permissions and resources enabled by the product profile.
+A detailed view of each product profile displays important details about the product profile's subjects (users, groups, and so on). It also displays permissions and resources enabled by the product profile.
 
 Details of the product profile can be exported to CSV files. The [!UICONTROL Export CSV] option produces two CSV files:
 

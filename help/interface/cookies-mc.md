@@ -1,6 +1,5 @@
 ---
 description: Learn how the ID service is stored and used across Experience Cloud applications.
-keywords: cookies;privacy
 solution: Experience Cloud,Analytics,Target
 title: Experience Cloud Cookies 
 uuid: a4788c1c-0402-4fc8-b894-cd24fa794f4f

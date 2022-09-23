@@ -1,6 +1,6 @@
 ---
 title: Manage users and products
-description: Find out how to sign in to the Admin Console and manage Experience Cloud user permissions and Product Profiles. Learn about delegating administrative rights to Experience Cloud users, and about browser support for Experience Cloud.
+description: Sign in to the Admin Console and manage Experience Cloud user permissions and products (Product Profiles). Learn about delegating administrative rights to Experience Cloud users, and about browser support for Experience Cloud.
 solution: Admin
 index: yes
 feature: Admin Console
