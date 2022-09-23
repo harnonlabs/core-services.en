@@ -1,6 +1,5 @@
 ---
 description: How Data Workbench uses cookies to analyze large volumes of rapidly evolving data in real time.
-keywords: cookies;privacy
 solution: Experience Cloud,Analytics,Target
 title: Data Workbench Cookies 
 uuid: c15013f4-c47d-4950-aa19-be9afd25cd5f

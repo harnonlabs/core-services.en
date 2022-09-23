@@ -1,10 +1,9 @@
 ---
-description: "Latest features, release notes, and known issues for the Experience Cloud services like Customer Attributes, Audiences, and user management."
-keywords: core services
+description: Learn about the latest features, release notes, and known issues for the Experience Cloud services like Customer Attributes, Audiences, and user management.
 solution: Experience Cloud
 title: Cumulative release notes 
 uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
-feature: "Customer Attributes"
+feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
@@ -120,7 +119,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 
 | Feature    | Description  |
 | -----------| ---------- |
-|Admin Tool - view user details |Administrators can view a sortable and filterable list of all Experience Cloud users and their details in the new Admin Tool. User details include a user’s product access, roles, and last accessed information. See [Experience Cloud Admin Tool](admin-tool-experience-cloud.md) help for details.|
+|Admin Tool - view user details |Administrators can view a sortable and filterable list of all Experience Cloud users and their details in the new Admin Tool. User details include a user's product access, roles, and last accessed information. See [Experience Cloud Admin Tool](admin-tool-experience-cloud.md) help for details.|
 
 {style="table-layout:auto"}
 
@@ -144,7 +143,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 
 * Updated the app switcher to include Marketo in Experience Cloud application suite, and branding updates to Experience Platform. (MCUI-6529)
 * Updated Experience Cloud Home to include navigation links to the Feed and Administration pages. (MCUI-6682)
-* Fixed an issue in the [!UICONTROL Trigger] definition for correct usage of “like” clause. (MCUI-6611)
+* Fixed an issue in the [!UICONTROL Trigger] definition for correct usage of "like" clause. (MCUI-6611)
 * Improvements to Customer Attributes for better logging in the Subscription service. (MCUI-6519)
 
 ## Release 19.1.1 - January 17 2019
@@ -229,7 +228,7 @@ If you access Dynamic Tag Management via the **[!UICONTROL Experience Cloud]** >
 
 >[!NOTE]
 >
->Microsoft® is [ending support](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support) for Internet Explorer 8, 9, and 10. As such, we will not fix issues reported against these specific versions of Internet Explorer. 
+>Microsoft&reg; is [ending support](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support) for Internet Explorer 8, 9, and 10. As such, we will not fix issues reported against these specific versions of Internet Explorer. 
 
 ## Release 15.10 - October 14 2015 {#section_68123833D3634BD3A473C12862BF9606}
 

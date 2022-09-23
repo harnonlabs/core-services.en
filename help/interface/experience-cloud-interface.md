@@ -2,7 +2,7 @@
 description: Learn how to sign in and about the central interface components in Experience Cloud. Learn about global search, your account preferences, and how to navigate the interface and getting help. 
 solution: Experience Cloud
 title: Experience Cloud central UI components 
-feature: "Central Interface Components"
+feature: Central Interface Components
 topic: Administration
 role: Admin, User
 level: Beginner, Intermediate, Experienced

@@ -1,9 +1,7 @@
 ---
 description: Learn how to upload Customer Attribute data via FTP to the Experience Cloud.
-keywords: Customer Attributes;core services
 solution: Experience Cloud
 title: Upload the Customer Attribute data file via FTP 
-uuid: 5df565dd-b6f8-420e-981f-4b6fc6f7d0e4
 feature: Customer Attributes
 topic: Administration
 role: Admin

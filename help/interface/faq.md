@@ -1,6 +1,5 @@
 ---
 description: Learn about browser support and get common questions answered for administrators in the Adobe Experience Cloud.
-keywords: core services, Experience Cloud, Experience Platform, Analytics, Target, user management.
 solution: Experience Cloud
 title: Frequently asked questions about Experience Cloud 
 index: yes
@@ -16,7 +15,7 @@ Learn about browser support and common questions and answers for administrators 
 
 ## What browsers are supported in Experience Cloud?
 
-* Microsoft® Edge (current and back two versions)
+* Microsoft&reg; Edge (current and back two versions)
 * Google Chrome (current and back two versions)
 * Mozilla Firefox (current and back two versions)
 * Safari (current and back two versions)

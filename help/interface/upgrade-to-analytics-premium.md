@@ -1,6 +1,5 @@
 ---
 description: Learn about the requirements and what to expect when upgrading to Analytics Premium.
-keywords: Adobe Analytics Premium upgrade
 solution: Experience Cloud
 title: Upgrade to Analytics Premium and the Experience Cloud 
 topic: Administration

@@ -2,13 +2,14 @@
 audience: administrator
 user-guide-title: Experience Cloud Central Interface Components 
 breadcrumb-title: Experience Cloud Central Interface Components
-user-guide-description: Learn about Experience Cloud's interface, configure preferences, search for help and business objects. Get help on user and product management, Customer Attributes, Audience Library, cookies, and Experience Cloud Assets.
+title: Experience Cloud Interface and Administration Guide
+description: Learn about Experience Cloud interface and user account preferences. Learn how to search for business objects, and manage users and products. Configure Customer Attributes, Audience Library, cookies, and share Experience Cloud Assets.
 index: yes
 ---
 
 # Experience Cloud Central Interface Components {#interface}
 
-+ [Experience Cloud Central Interface Components Guide](experience-cloud.md)
++ [Experience Cloud Central Interface Components guide](experience-cloud.md)
 + Experience Cloud services {#services}
   + [Experience Cloud services](core-services-landing.md)
   + [Unified Search in Experience Cloud](search-experience-cloud.md)

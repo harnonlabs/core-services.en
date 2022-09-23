@@ -1,7 +1,6 @@
 ---
 description: Learn about solution data sources and configuring subscriptions. Subscriptions enable the Customer Attribute data flow between the Experience Cloud and applications (Analytics and Target).
-keywords: Customer Attributes;core services
-application: Experience Cloud
+solution: Experience Cloud
 title: How to configure subscriptions 
 uuid: f74a8155-0a21-46b3-9b1e-4c838f72f24f
 feature: Customer Attributes

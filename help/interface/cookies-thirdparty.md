@@ -1,6 +1,5 @@
 ---
 description: Learn about how support for third-party cookies has become increasingly limited across browsers.
-keywords: cookies;privacy
 solution: Experience Cloud,Analytics,Target
 title: How changes to third-party cookie support impact customers 
 uuid: 27332e0d-6932-4a6e-b97b-0adeced0b050

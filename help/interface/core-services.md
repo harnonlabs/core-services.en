@@ -1,6 +1,5 @@
 ---
 description: Modernize your Adobe Analytics and Adobe Target applications for cross-application services. Learn how to start using Experience Cloud services.
-keywords: core services;Customer Attributes
 solution: Experience Cloud
 title: Enable your applications for cross-application services
 index: yes
@@ -118,7 +117,7 @@ When Customer Attributes first became available, some customers had not yet impl
 
 ### Mobile SDKs
 
-See the *Experience Cloud ID Service* section for syntax examples about how to set additional customer IDs in [Android™](https://experienceleague.adobe.com/docs/mobile-services/android/overview.html?lang=en) and [iOS](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=en) Mobile applications.
+See the *Experience Cloud ID Service* section for syntax examples about how to set additional customer IDs in [Android&trade;](https://experienceleague.adobe.com/docs/mobile-services/android/overview.html?lang=en) and [iOS](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=en) Mobile applications.
 
 ### Enabling Attributes for Historical Data
 
