@@ -45,7 +45,7 @@ Here is how you implement a new first-party SSL certificate for first-party data
 
     Each field is described within the document with examples.
 
-2. Create CNAME records (see instructions below).
+1. Create CNAME records (see instructions below).
 
     Upon receiving the ticket, a customer care representative should provide you with a CNAME record. These records must be configured on your company's DNS server before Adobe can purchase the certificate on your behalf. The CNAME is similar to the following: 
 
@@ -58,9 +58,9 @@ Here is how you implement a new first-party SSL certificate for first-party data
 
     If you have an existing implementation, you should consider visitor migration to maintain your existing visitors. After the certificate has been pushed live to Adobe's production environment, you can update your tracking server variables to the new hostnames. Meaning, if the site is not secure (HTTP), update the `s.trackingServer`. If the site is secure (HTTPS), update both `s.trackingServer` and `s.trackingServerSecure` variables.
 
-2. [Validate hostname forwarding](#validate) (see below).
+1. [Validate hostname forwarding](#validate) (see below).
 
-3. [Update Implementation Code](#update) (see below).
+1. [Update Implementation Code](#update) (see below).
 
 ### Maintenance and renewals
 
