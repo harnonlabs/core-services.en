@@ -37,11 +37,13 @@ The Adobe Managed Certificate Program is the recommended process for setting up 
 
 The Adobe Managed Certificate program lets you implement a new first-party SSL certificate at no additional cost (for your first 100 CNAMEs). If you currently have your own Customer-Managed SSL certificate, speak with Adobe Customer Care about migrating to the Adobe-Managed Certificate Program.
 
-### Implement
+### Implementation
 
 Here is how you implement a new first-party SSL certificate for first-party data collection:
 
-1. Fill out the [First-party domain request form](/help/interface/cookies/assets/First_Part_Domain_Request_Form.xlsx) and open a ticket with Customer Care requesting to set up first-party data collection on the Adobe-Managed program. Each field is described within the document with examples.
+1. Fill out the [First-party domain request form](/help/interface/cookies/assets/First_Part_Domain_Request_Form.xlsx) and open a ticket with Customer Care requesting to set up first-party data collection on the Adobe-Managed program. 
+
+    Each field is described within the document with examples.
 
 2. Create CNAME records (see instructions below).
 
@@ -49,8 +51,8 @@ Here is how you implement a new first-party SSL certificate for first-party data
 
     **Secure** - For example, the hostname `smetrics.example.com` points to: `example.com.adobedc.net`.
 
->[!NOTE]
-> In the past, Adobe recommended that customers setup two CNAME, one for HTTPS and one for HTTP. Since it is a best practice to encrypt traffic and most browsers are strongly discouraging HTTP, we no longer recommend setting up a CNAME for HTTP. Contact Adobe Customer Care to configure your CNAME for HTTP.
+    >[!NOTE]
+    > In the past, Adobe recommended that customers setup two CNAMEs, one for HTTPS and one for HTTP. Since it is a best practice to encrypt traffic, and most browsers are strongly discouraging HTTP, we no longer recommend setting up a CNAME for HTTP. Contact Adobe Customer Care to configure your CNAME for HTTP.
 
 1. When the CNAME is in place, Adobe works with DigiCert to purchase and install a certificate on Adobe's production servers.
 
@@ -60,11 +62,13 @@ Here is how you implement a new first-party SSL certificate for first-party data
 
 3. [Update Implementation Code](#update) (see below).
 
-### Maintenance and Renewals
+### Maintenance and renewals
 
-SSL certificates expire each year, meaning Adobe must purchase a new certificate for each implementation on a yearly basis. All supported users within your organization receive an email notification each time an implementation is close to expiration. For Adobe to renew your hostname, one supported user must reply to the email from Adobe and indicate that you plan to continue using the expiring hostname for data collection. At that point, Adobe automatically purchases and installs a new certificate.
+Thirty days before your first-party certificate expires, Adobe validates whether the CNAME is still valid and in use. If so, Adobe assumes that you want to continue using the service and automatically renews the certificate on your behalf. 
 
-### Frequently Asked Questions
+At this time, if the CNAME has been removed and is no longer valid, Adobe does not renew the certificate and the entry in our system is marked for removal. If the CNAME has been removed, Adobe knows that tracking has not been happening using that URL, and is thus safe to remove.
+
+### Frequently asked questions
 
 |Question|Answer|
 |---|---|
