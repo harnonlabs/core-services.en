@@ -2,12 +2,7 @@
 description: Learn about personalized learning preferences in Experience Cloud. This allows customers to receive personalized help and promotions via email, in their Adobe Experience Cloud products, and within the Adobe Experience League Communities based on their Usage Data.
 solution: Experience Cloud
 title: Experience Cloud Personalized Learning Preferences
-uuid: 
 feature: "Customer Attributes"
-topic: Administration
-role: Admin
-level: Experienced
-exl-id: 
 ---
 # Personalized learning recommendations and promotions
 
@@ -45,12 +40,12 @@ You can update your selections at any time in [User Preference Settings](https:/
 
 ### In your Adobe products
 
-INSERT Image
+![](assets/personalized-learning-in-product.gif)
 
 ### In email Adobe sends you
 
-INSERT IMAGE
+![](assets/personalized-learning-email.png)
 
 ### In the Experience League Communities
 
-INSERT IMAGE
+![](assets/personalized-learning-communities.png)
