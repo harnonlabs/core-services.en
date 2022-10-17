@@ -52,8 +52,8 @@ Here is how you implement a new first-party SSL certificate for first-party data
     **Secure** - For example, the hostname `smetrics.example.com` points to: `example.com.adobedc.net`.
 
     >[!NOTE]
-    > In the past, Adobe recommended that customers setup two CNAMEs, one for HTTPS and one for HTTP. Since it is a best practice to encrypt traffic, and most browsers are strongly discouraging HTTP, we no longer recommend setting up a CNAME for HTTP. It is now considered best practice to set both trackingServer and trackingServerSecure with the same CNAME. For example, both trackingServer and trackingServerSecure would be set to smetrics.example.com
-HTTP is only allowed for 3rd Party Hostnames.
+    > In the past, Adobe recommended that customers set up two CNAMEs, one for HTTPS and one for HTTP. Since it is a best practice to encrypt traffic, and most browsers are strongly discouraging HTTP, we no longer recommend setting up a CNAME for HTTP. It is now considered best practice to set both `trackingServer` and `trackingServerSecure` with the same CNAME. For example, both `trackingServer` and `trackingServerSecure` would be set to `smetrics.example.com`.
+HTTP is only allowed for 3rd-party host names.
 
 1. When the CNAME is in place, Adobe works with DigiCert to purchase and install a certificate on Adobe's production servers.
 
