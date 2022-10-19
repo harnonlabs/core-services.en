@@ -66,7 +66,8 @@ Here is how you implement a new first-party SSL certificate for first-party data
 
 Thirty days before your first-party certificate expires, Adobe validates whether the CNAME is still valid and in use. If so, Adobe assumes that you want to continue using the service and automatically renews the certificate on your behalf. 
 
-At this time, if the CNAME has been removed and is no longer valid, Adobe does not renew the certificate and the entry in our system is marked for removal. If the CNAME has been removed, Adobe knows that tracking has not been happening using that URL, and is thus safe to remove.
+   >[!NOTE]
+   > If the CNAME has been removed and/or is no longer valid (Does not map to the provided Adobe SSL Hostname), Adobe cannot renew the certificate and the entry in our system is marked for removal without further communication.
 
 ### Frequently asked questions
 
