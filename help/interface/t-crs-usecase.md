@@ -1,6 +1,5 @@
 ---
-description: Learn how to create the Customer Attribute source and upload it to the Adobe Experience Cloud.
-keywords: Customer Attributes;core services
+description: Create a Customer Attribute source and upload it to the Adobe Experience Cloud.
 solution: Experience Cloud
 title: Create a Customer Attribute source and upload the data file 
 uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
@@ -16,7 +15,7 @@ Create the Customer Attribute source (CSV and FIN files) and upload the data. Yo
 
 ## Customer Attributes workflow {#concept_BF0AF88E9EF841219ED4D10754CD7154}
 
-![](assets/crs.png) 
+![Customer Attributes workflow](assets/crs.png) 
 
 1. [Create a data file](t-crs-usecase.md#task_B5FB8C0649374C7A94C45DCF2878EA1A)
 1. [Create the attribute source and upload the data file](t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8)
@@ -32,7 +31,7 @@ After the data source is active, you can:
 >
 >To access this feature, users must be assigned to the Customer Attributes product profile (Customer Attributes - Default Access. Navigate to **[!UICONTROL Administration]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *Customer Attributes* displays as one of the [!UICONTROL Product Profiles], you are ready to begin. Users that are added to the Customer Attributes group sees the [!UICONTROL Customer Attributes] menu on the left side of the Experience Cloud interface. 
 >
->To use the Customer Attributes feature, users must also belong to solution-level groups (Analytics or [!DNL Target]). 
+>To use the Customer Attributes feature, users must also belong to application-level groups (Analytics or [!DNL Target]). 
 
 See [Manage Experience Cloud users and products](admin-getting-started.md#task_3295A85536BF48899A1AB40D207E77E9). 
 
@@ -48,7 +47,7 @@ This data is enterprise customer data from your CRM. The data might include subs
 
    Sample enterprise customer data file: 
 
-   ![](assets/01_crs_usecase.png) 
+   ![Sample enterprise customer data file](assets/01_crs_usecase.png) 
 
 1. Before continuing, review the important information in [Data File Requirements](crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19), before you upload the file.
 1. [Create a Customer Attribute source and upload the data](t-crs-usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78), described below.
@@ -61,7 +60,7 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
 >
 >When creating, modifying, or deleting Customer Attribute sources, there is a delay of up to one hour before IDs begin synchronizing with the new data source. You must have administrative rights in Audience Manager to create or modify Customer Attribute sources. Contact Audience Manager Customer Care or consulting to obtain administrative rights.
 
-1. In the [!DNL Experience Cloud], select the Menu  ![](assets/menu-icon.png) icon.
+1. In the [!DNL Experience Cloud], select the Menu  ![menu](assets/menu-icon.png) icon.
 1. Under **[!DNL Experience Platform]**, select **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**.
 
    The [!UICONTROL Customer Attributes] page is where you can manage and edit existing attribute data sources. 
@@ -80,7 +79,7 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
     
       The Alias ID corresponds to certain areas where you set additional Customer ID values. For example: 
     
-        * **Dynamic tag management:** The Alias ID corresponds to the *Integration Code* value under [!UICONTROL Customer Settings], in the [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/dtm/using/tools/macid.html?lang=en) tool. 
+        * **Dynamic tag management:** The Alias ID corresponds to the *Integration Code* value under [!UICONTROL Customer Settings], in the [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en) tool. 
         
         * **Visitor API:** The Alias ID corresponds to the additional [Customer IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=en) that you can associate with each visitor. 
         
@@ -96,7 +95,7 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
                
           `[ADBMobile visitorSyncIdentifiers:@{@<`**`"idType"`**`:@"idValue"}];` 
         
-        * **Android™:** The Alias ID corresponds to *"idType"* in [syncIdentifiers](https://experienceleague.adobe.com/docs/mobile-services/android/overview.html?lang=en). 
+        * **Android&trade;:** The Alias ID corresponds to *"idType"* in [syncIdentifiers](https://experienceleague.adobe.com/docs/mobile-services/android/overview.html?lang=en). 
         
           For example: 
         
@@ -115,7 +114,7 @@ Perform these steps on the Create New Customer Attribute Source page in the Expe
     
       **File upload graphic** 
     
-      ![](assets/file_upload_attributes.png) 
+      ![attributes](assets/file_upload_attributes.png) 
     
     * **[!UICONTROL Unique Customer ID:]** Displays how many unique IDs you have uploaded to this attribute source. 
     
@@ -140,7 +139,7 @@ How to delete attributes and replace attributes in the schema.
 
 ## Configure subscriptions and activate the attribute source {#task_1ACA21198F0E46A897A320C244DFF6EA}
 
-Configuring a subscription sets up the data flow between the Experience Cloud and solutions. Activating the attribute source allows the data to flow to subscribed solutions. The customer records you have uploaded are matched up with incoming ID signals from your web site or application.
+Configuring a subscription sets up the data flow between the Experience Cloud and applications. Activating the attribute source allows the data to flow to subscribed applications. The customer records you have uploaded are matched up with incoming ID signals from your web site or application.
 
 See [Configure subscriptions](subscription.md#concept_ECA3C44FA6D540C89CC04BA3C49E63BF). 
 
@@ -152,11 +151,11 @@ On the [!UICONTROL Create New [or Edit] Customer Attribute Source] page, locate 
 
 ## Use Customer Attributes in Adobe Analytics {#task_7EB0680540CE4B65911B2C779210915D}
 
-With the data now available in solutions like Adobe Analytics, you can report on the data, analyze it, and take the appropriate action in your marketing campaigns.
+With the data now available in applications like Adobe Analytics, you can report on the data, analyze it, and take the appropriate action in your marketing campaigns.
 
 The following example shows an [!DNL Analytics] segment based on the uploaded attributes. This segment shows [!DNL Photoshop Lightroom] subscribers whose most-launched product is Photoshop. 
 
-![](assets/08_crs_usecase.png) 
+![Analytics segment based on the uploaded attributes](assets/08_crs_usecase.png) 
 
 When you publish a segment to the Experience Cloud, it becomes available in Experience Cloud Audiences and Audience Manager. 
 
@@ -164,6 +163,6 @@ When you publish a segment to the Experience Cloud, it becomes available in Expe
 
 In [!DNL Target], you can select a Customer Attribute from the [!UICONTROL Visitor Profile] section when creating an audience. All Customer Attributes have the prefix `crs.` in the list. Combine these attributes as required with other data attributes to build audiences.
 
-![](assets/crs-add-attribute-target.png) 
+![Use Customer Attributes in Adobe Target](assets/crs-add-attribute-target.png) 
 
 See [Creating a New Audience](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=en) in [!DNL Target] help.

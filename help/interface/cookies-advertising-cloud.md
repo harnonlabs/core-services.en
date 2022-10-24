@@ -12,6 +12,10 @@ exl-id: 6818edea-31b1-49fc-bca2-32828c7ca78d
 
 Advertising Cloud uses cookies to map ad engagement events to conversion events and, potentially, to use that information to optimize ad bids.
 
+>[!NOTE]
+>
+>The beta Advertising Cloud Javascript tag that uses the [Adobe Experience Cloud ID (ECID) Service](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html) creates [first-party Experience Cloud s_ecid cookies](cookies-first-party.md), not Advertising Cloud cookies.
+
 ## Cookie Name: _lcc
 
 <table id="table_821F8EBE91F244CBA72B0975B961B908"> 
@@ -24,7 +28,7 @@ Advertising Cloud uses cookies to map ad engagement events to conversion events 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Information Stored </p> </td> 
-   <td colname="col2"> <p>IDs and time stamps (in the format yyyymmdd) of display selects</p> </td> 
+   <td colname="col2"> <p>IDs and time stamps (in the format yyyymmdd) of display clicks</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiration </p> </td> 
@@ -32,7 +36,7 @@ Advertising Cloud uses cookies to map ad engagement events to conversion events 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Usage </p> </td> 
-   <td colname="col2"> <p>A third-party cookie used to determine if a select event on a display ad applies to an Adobe Analytics hit </p> </td> 
+   <td colname="col2"> <p>A third-party cookie used to determine if a click event on a display ad applies to an Adobe Analytics hit </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Location </p> </td> 
@@ -90,7 +94,7 @@ Advertising Cloud uses cookies to map ad engagement events to conversion events 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Information Stored </p> </td> 
-   <td colname="col2"> <p>The timestamps of the surfer's last visit to the advertiser’s website and the surfer's last search select, and the ef_id that was created when the user selected an ad</p> </td> 
+   <td colname="col2"> <p>The timestamps of the surfer's last visit to the advertiser’s website and the surfer's last search click, and the ef_id that was created when the user clicked an ad</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiration </p> </td> 

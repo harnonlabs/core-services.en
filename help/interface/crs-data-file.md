@@ -1,6 +1,5 @@
 ---
 description: Learn about data file requirements and multiple data sources for uploading Customer Attributes to Experience Cloud.
-keywords: Customer Attributes;core services
 solution: Experience Cloud
 title: Learn about data file and data sources for Customer Attributes 
 uuid: 9dd0e364-889b-45db-b190-85c0930a101e
@@ -49,11 +48,11 @@ Customer Attributes is designed to handle a few files per day. To mitigate the i
 
 The CSV file must adhere to the following format:
 
-![](assets/cvs.png)
+![Requirements for the attribute data files](assets/cvs.png)
 
 The same file viewed in a text editor:
 
-![](assets/csv_txt.png)
+![Requirements for the attribute data files](assets/csv_txt.png)
 
 **Guidelines** 
 
@@ -79,7 +78,7 @@ The same file viewed in a text editor:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Attribute limits </p> </td> 
-   <td colname="col2"> <p>You can upload hundreds of <span class="filepath"> .csv </span> columns to the Customer Attribute service in the Experience Cloud. However, when configuring subscriptions and selecting attributes, the following limits apply depending on the solutions you own: </p> <p> 
+   <td colname="col2"> <p>You can upload hundreds of <span class="filepath"> .csv </span> columns to the Customer Attribute service in the Experience Cloud. However, when configuring subscriptions and selecting attributes, the following limits apply depending on the applications you own: </p> <p> 
      <ul id="ul_2BB85067918D4BB3B59394F3E3E37A6D"> 
       <li id="li_93703988B9934384B4B94A839D028380"> <b>Analytics Standard</b>: 3 total </li> 
       <li id="li_D1E5E7BD24C54591B14D15DE97447835"> <b>Analytics Premium</b>: 200 per report suite </li> 
@@ -123,7 +122,7 @@ The same file viewed in a text editor:
   </tr> 
    <tr> 
    <td colname="col1"> <p>Historical data </p> </td> 
-   <td colname="col2"> <p> Customer attributes are tied to the underlying visitor profile in [!DNL Analytics]. As such, [!UICONTROL Customer Attributes] are associated with the visitor for the entire life of that visitor profile in [!DNL Analytics]. This profile includes behavior that occurred before the customer logged in for the first time. </p> <p> If you use the Data Warehouse backfill method, the data is tied to a post_visid_high/low that is based on the Analytics ID (AID). If you are using the Experience Cloud ID Service, the data is tied to a post_visid_high/low that is based on Experience Cloud ID (MID). </p> </td> 
+   <td colname="col2"> <p> Customer attributes are tied to the underlying visitor profile in [!DNL Analytics]. As such, [!UICONTROL Customer Attributes] are associated with the visitor for the entire life of that visitor profile in [!DNL Analytics]. This profile includes behavior that occurred before the customer logged in for the first time. </p> <p> If you use the Data Warehouse backfill method, the data is tied to a post_visid_high/low that is based on the Analytics ID (AID). If you are using the Experience Cloud ID Service, the data is tied to a post_visid_high/low that is based on Experience Cloud ID (MID). </p> <p> Note that the Data Warehouse backfill method will no longer be available beginning in October 2022. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data feeds </p> </td> 
@@ -144,7 +143,7 @@ Set two customer IDs that correspond to the appropriate data sources:
 
 ```
 Visitor.setCustomerIDs({ 
-     "ds_id1”:"123456", 
+     "ds_id1":"123456", 
      "ds_id2":"123456" 
 });
 ```

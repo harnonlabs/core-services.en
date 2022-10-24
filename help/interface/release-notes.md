@@ -1,10 +1,9 @@
 ---
-description: "Latest features, release notes, and known issues for the Experience Cloud services like Customer Attributes, Audiences, and user management."
-keywords: core services
+description: Learn about the latest features, release notes, and known issues for the Experience Cloud services like Customer Attributes, Audiences, and user management.
 solution: Experience Cloud
 title: Cumulative release notes 
 uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
-feature: "Customer Attributes"
+feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
@@ -16,7 +15,69 @@ Features, release notes, and known issues for the Experience Cloud Central Inter
 
 For a list of documentation updates, see [Experience Cloud](doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784). 
 
-For release notes covering all solutions, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en).
+For release notes covering all applications, see [Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en).
+
+## July - 2022
+
+**Provisioning update notice for administrators**
+
+* See [Provisioning update notice](admin-getting-started.md#provisioning) for important updates to provisioning in Experience Cloud.
+
+Planned release: **July 11, 2022**
+
+| Feature | Description |
+| ------- | ------- |
+| Unified Home - Quick Access Widget | **Navigate faster:** You can now further personalize your home experience and decide which applications are at your fingertips. Use the new pinning feature to select which applications appear front and center on your [!UICONTROL Quick Access]. <br>**Stay informed with smart pinning:** Your new applications are now easier to find. Newly assigned applications display a _New_ badge and auto-pin to [!UICONTROL Quick Access]. |
+
+{style="table-layout:auto"}
+
+## April - 2022
+
+| Feature | Description |
+| ------- |-------|
+|Natural language search|Get instant answers to all your help questions, through one single interface via Unified Search. This feature is always available to you on every page of [!DNL Experience Platform] and [!DNL Journey Optimizer].|
+
+{style="table-layout:auto"}
+
+## March - 2022
+
+| Feature | Description |
+| ------- |-------|
+|Access [!UICONTROL Recents] across Experience Platform and Journey Optimizer through the search bar|Users can now access recently accessed objects from every page of AEP and AJO through the unified search bar.|
+
+## February - 2022
+
+| Feature | Description |
+| ------- |-------|
+|Shortcuts (**[!UICONTROL Recents]**) added to [Experience Cloud](https://experience.adobe.com/home) home |You can access shortcuts to your most recent Journey Optimizer and Experience Platform work under the new _Recents_ heading on the landing page. This update also includes general layout and responsiveness improvements.|
+|**[!UICONTROL Sandboxes]** moved to the header bar |The Sandboxes indicator is now integrated within the header for all Experience Platform interface applications. See [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/ui/user-guide.html) in Experience Platform for more information.|
+
+## November - 2021
+
+| Feature | Description |
+| ------- | ------- |
+|Home Page |Experience Cloud home footer information has been moved to the user profile card, including Legal Notices and language selection in Preferences. |
+|AEP Dashboards |[!DNL Helios Lite] provides chart recommendations within the Experience Platform widget creation workflow. Given a data selection (currently single variable data selection), [!DNL Helios] recommends an appropriate visualization to accompany that data selection.|
+|AEP Dashboards |[!DNL Instory] provides ML-based written narration and captions for charts. It decorates charts in the AEP Dashboards page with relevant bullet points calling out major changes and incidents in the graphed data. |
+
+{style="table-layout:auto"}
+
+## October - 2021
+
+| Feature | Description |
+| ------- | ------- |
+|Unified Search |Unified Search continues to add objects types to the search index. In this update, global search now searches across Experience League content and the following Journey Optimizer object types: <ul><li>Datasets</li><li>Destinations</li><li>Queries</li><li>Schemas</li><li>Segments</li><li>Sources</li><li>Offers</li><li>Components</li><li>Messages</li><li>Journeys</li></ul> |
+|Product usage data consent  |Upon an initial login, you are asked to submit preferences for how Adobe can provide you with helpful, personalized content, such as tutorials, guides, quick tips, recommendations, learning videos and more, based on your Experience Cloud product usage data. This request also includes an update to your preferences for collection and usage of these data at <https://experience.adobe.com/preferences>.|
+|Experience Cloud [!UICONTROL Triggers] navigation  |[Experience Cloud Triggers](https://experienceleague.adobe.com/docs/core-services/interface/services/activation/triggers.html?lang=en) is available for direct navigation from the application switcher in the header for provisioned users.    |
+|**Notice:** Planned interface navigation update|In November 2021, the _[!UICONTROL Go to Launch / Data Collection]_ navigation feature will be removed from <https://experience.adobe.com/implement>.|
+
+{style="table-layout:auto"}
+
+## August - 2021
+
+| Feature | Date |Description |
+| ------- | ------- | -------|
+|[!UICONTROL Unified Recents] - Extended support for recently accessed business objects|August 10, 2021|[!UICONTROL Unified Recents] is extended to additional business objects in Journey Optimizer and Experience Platform. Journey Optimizer customers can find their recently accessed objects (Messages, Journeys, Segments, Schemas, Datasets, Data Sources, Events, Actions, Sources, and Destinations) from Adobe Journey Optimizer Home page. |
 
 ## July - 2021
 
@@ -27,7 +88,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 | Feature | Date |Description |
 | ------- | ------- | ------- |
 |Single Sign-on Support for Adobe Federated IDs|June 17, 2021|If you use Federated IDs, you can sign in to Experience Cloud without having to enter an email address or password. To use this feature, add `#/sso:@domain` to the Experience Cloud URL. <br>For example, assume that you own the domain `adobecustomer.com` and want to sign into Adobe Analytics. The URL would be: `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.|
-|Experience League Search |June 1, 2021 |Experience League documentation search has been improved. Navigate to [Experience League](https://experienceleague.corp.adobe.com/docs/?lang=en) and use the **[!UICONTROL Search]** field to locate tutorials, documentation, courses, and more. |
+|Experience League Search |June 1, 2021 |Experience League documentation search has been improved. Navigate to [Experience League](https://experienceleague.adobe.com/docs/?lang=en) and use the **[!UICONTROL Search]** field to locate tutorials, documentation, courses, and more. |
 
 {style="table-layout:auto"}
 
@@ -58,7 +119,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 
 | Feature    | Description  |
 | -----------| ---------- |
-|Admin Tool - view user details |Administrators can view a sortable and filterable list of all Experience Cloud users and their details in the new Admin Tool. User details include a user’s product access, roles, and last accessed information. See [Experience Cloud Admin Tool](admin-tool-experience-cloud.md) help for details.|
+|Admin Tool - view user details |Administrators can view a sortable and filterable list of all Experience Cloud users and their details in the new Admin Tool. User details include a user's product access, roles, and last accessed information. See [Experience Cloud Admin Tool](admin-tool-experience-cloud.md) help for details.|
 
 {style="table-layout:auto"}
 
@@ -80,9 +141,9 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
 
 ## April - 2019
 
-* Updated the app switcher to include Marketo in Experience Cloud solution suite, and branding updates to Experience Platform. (MCUI-6529)
+* Updated the app switcher to include Marketo in Experience Cloud application suite, and branding updates to Experience Platform. (MCUI-6529)
 * Updated Experience Cloud Home to include navigation links to the Feed and Administration pages. (MCUI-6682)
-* Fixed an issue in the [!UICONTROL Trigger] definition for correct usage of “like” clause. (MCUI-6611)
+* Fixed an issue in the [!UICONTROL Trigger] definition for correct usage of "like" clause. (MCUI-6611)
 * Improvements to Customer Attributes for better logging in the Subscription service. (MCUI-6519)
 
 ## Release 19.1.1 - January 17 2019
@@ -135,7 +196,7 @@ Unified Search is updated to be available for Journey Optimizer, Offers, and Exp
   </tr> 
   <tr> 
    <td colname="col1"> <p>Account linking improvements </p> </td> 
-   <td colname="col2"> <p>Improved the interface workflow for linking solution accounts with the Experience Cloud (Adobe ID). This new workflow locates all the user's accounts associated with an organization, and lets you choose which account to link. We also streamlined the account linking experience, so that you no longer must access the Manage Organizations page to manually link accounts. </p> </td> 
+   <td colname="col2"> <p>Improved the interface workflow for linking application accounts with the Experience Cloud (Adobe ID). This new workflow locates all the user's accounts associated with an organization, and lets you choose which account to link. We also streamlined the account linking experience, so that you no longer must access the Manage Organizations page to manually link accounts. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -167,7 +228,7 @@ If you access Dynamic Tag Management via the **[!UICONTROL Experience Cloud]** >
 
 >[!NOTE]
 >
->Microsoft® is [ending support](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support) for Internet Explorer 8, 9, and 10. As such, we will not fix issues reported against these specific versions of Internet Explorer. 
+>Microsoft&reg; is [ending support](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support) for Internet Explorer 8, 9, and 10. As such, we will not fix issues reported against these specific versions of Internet Explorer. 
 
 ## Release 15.10 - October 14 2015 {#section_68123833D3634BD3A473C12862BF9606}
 
@@ -211,11 +272,11 @@ No information available
  <tbody> 
   <tr> 
    <td colname="col1"> <p> </p> </td> 
-   <td colname="col2"> <p>The left navigation menus have been updated and arranged to provide access to all the core services and solutions. Notable changes include: </p> 
+   <td colname="col2"> <p>The left navigation menus have been updated and arranged to provide access to all the core services and applications. Notable changes include: </p> 
     <ul id="ul_5BEBAB86B9234A239C4E2DAF8826D8E3"> 
      <li id="li_7FA9F64CE69144B8A8A92746BF40E5A1">The <span class="term"> Audience Library</span> and <span class="term"> Customer Attributes</span> menu selections are now located under <span class="term"> Audiences</span>. </li> 
      <li id="li_95D62A43AE6243DBB2A65EDB830D05C4">The <span class="term"> Exchange</span> menu selection was moved from the Help drop-down menu to the left navigation rail. </li> 
-     <li id="li_0443FD50C78446CD8AA27A4F272CAD31"> <span class="term"> Solutions</span> has been removed. You can launch all solutions from the bottom half of the navigation rail. </li> 
+     <li id="li_0443FD50C78446CD8AA27A4F272CAD31"> <span class="term"> Solutions</span> has been removed. You can launch all applications from the bottom half of the navigation rail. </li> 
     </ul> </td> 
   </tr> 
  </tbody> 
@@ -248,7 +309,7 @@ No information available
 
 **Fixes** 
 
-* Fixed an issue preventing single sign-on between the [!DNL Experience Cloud] and [!DNL Media Optimizer].
+* Fixed an issue preventing single sign-on between the [!DNL Experience Cloud] and [!DNL Advertising Cloud].
 
 **Known Issues** 
 
@@ -267,7 +328,7 @@ No information available
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Customer Attributes </p> </td> 
-   <td colname="col2"> <p>If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a Customer Attribute data source in the Experience Cloud. After the data is uploaded, you can run <span class="uicontrol"> Visitor Profile</span> &gt; <span class="uicontrol"> Customer Attributes</span> reports in Analytics. </p> <p>You can also use the uploaded data as an audience segment in <span class="keyword"> Adobe Target</span>. </p> <p>See <a href="attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer Attributes</a> product documentation. </p> <p> For information about modernizing your solutions for core services, see <a href="core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your solutions for core services</a>. </p> </td> 
+   <td colname="col2"> <p>If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload the data into a Customer Attribute data source in the Experience Cloud. After the data is uploaded, you can run <span class="uicontrol"> Visitor Profile</span> &gt; <span class="uicontrol"> Customer Attributes</span> reports in Analytics. </p> <p>You can also use the uploaded data as an audience segment in <span class="keyword"> Adobe Target</span>. </p> <p>See <a href="attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> Customer Attributes</a> product documentation. </p> <p> For information about modernizing your applications for core services, see <a href="core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your applications for core services</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -284,11 +345,11 @@ No information available
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Group Mapping </p> </td> 
-   <td colname="col2"> <p>The Group Management page has been redesigned as an administrative interface that lets you create groups, add users to groups, and apply permissions across Experience Cloud solutions. </p> </td> 
+   <td colname="col2"> <p>The Group Management page has been redesigned as an administrative interface that lets you create groups, add users to groups, and apply permissions across Experience Cloud applications. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>One-to-many mapping </p> </td> 
-   <td colname="col2"> <p>When linking solution accounts in the Experience Cloud, if you have multiple solutions and organizations, you can now map multiple products and services to a single organization. </p> </td> 
+   <td colname="col2"> <p>When linking application accounts in the Experience Cloud, if you have multiple applications and organizations, you can now map multiple products and services to a single organization. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Activation </p> </td> 
@@ -296,7 +357,7 @@ No information available
   </tr> 
   <tr> 
    <td colname="col1"> <p>Documentation Updates - Core Services </p> </td> 
-   <td colname="col2"> <p>Added the topic <a href="core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your solutions for core services</a> to assist you with implementing core services. </p> </td> 
+   <td colname="col2"> <p>Added the topic <a href="core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Enable your applications for core services</a> to assist you with implementing core services. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -340,7 +401,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 * Users are not able to share PowerPoint files on boards.
 * Group and entitlement changes made in User Management take effect only after a new login.
 * Some users might have issues uploading large file-types to Experience Cloud Assets.
-* Users might be missing links on their Experience Cloud cards from Media Optimizer.
+* Users might be missing links on their Experience Cloud cards from Advertising Cloud.
 * Some administrative users might experience issues linking their accounts after accepting an invitation to join the Experience Cloud.
 * Experience Cloud interface can reduce in performance when in parallel use by multiple users.
 * Some users are able to delete an out-of-date asset instead of receiving an error notification.
@@ -407,7 +468,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 **Fixes and Improvements** 
 
 * When you navigate to [!DNL experience.adobe.com], the login experience is now consistent with Adobe's Creative Cloud login.
-* On the Manage Organizations page, the linking experience (after an invite is received) is now consistent for each solution.
+* On the Manage Organizations page, the linking experience (after an invite is received) is now consistent for each application.
 
 **Known Issues** 
 
@@ -549,7 +610,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 **Fixes** 
 
 * [!DNL Experience Cloud] was not linking to [!DNL Adobe Target]. This issue occurred if the [!DNL Adobe Target] login can be used on multiple [!DNL Target] servers.
-* [!DNL Adobe Media Optimizer] was not creating users automatically when the user has been created in [!DNL Experience Cloud].
+* [!DNL Adobe Advertising Cloud] was not creating users automatically when the user has been created in [!DNL Experience Cloud].
 * Options in combo boxes used for adding new users temporarily disappeared while typing.
 * The Comments link on asset card view was not selectable.
 * After adding a custom tag to an asset, no other metadata changes were not persisting.
@@ -591,18 +652,18 @@ New features and fixes in the [!DNL Adobe Experience Cloud] collaboration and sh
 * After adding a custom tag to an asset, no other metadata changes can be persisted.
 * Users have to refresh the board to make the deleted cards disappear from view.
 * When **[!UICONTROL Remember me]** is not selected during login, the user is logged out after 15 minutes
-* [!DNL Analytics] solution landing page shows formatting errors.
+* [!DNL Analytics] application landing page shows formatting errors.
 * Users must log out and log back in for all permission and entitlement changes to take effect.
 * Deleting an image, [!UICONTROL Assets] does not warn if the image is used in [!DNL Adobe Target Essentials].
 * Comments link on asset card view is not selectable.
 * Options in combo boxes for adding new users temporarily disappear while typing.
 * Logging in to the [!DNL Experience Cloud] takes longer than a second.
-* Data shared from [!DNL Media Optimizer] is misrepresented in the [!DNL Experience Cloud].
-* Adobe [!DNL Media Optimizer] does not create users automatically when user has been created in the [!DNL Experience Cloud].
+* Data shared from [!DNL Advertising Cloud] is misrepresented in the [!DNL Experience Cloud].
+* Adobe [!DNL Advertising Cloud] does not create users automatically when user has been created in the [!DNL Experience Cloud].
 * The [!DNL Experience Cloud] cannot be linked to [!DNL Adobe Target], if the [!DNL Adobe Target] login can be used on multiple [!DNL Target] servers.
 * [!DNL Experience Cloud] interface can slow down when in parallel use by many users.
 * [!DNL Search&Promote] linking is not available from the [!UICONTROL Organizations & Product Access] page.
-* [!DNL Adobe Media Optimizer] simulation cards are not rendering correctly.
+* [!DNL Adobe Advertising Cloud] simulation cards are not rendering correctly.
 * Filters applied to trended reports from [!DNL Analytics] are not applied to cards in [!DNL Experience Cloud].
 * Filters applied to trended reports from Analytics are not applied to cards in Experience Cloud.
 * Some Excel or CSV files cannot be uploaded to a board.
@@ -618,7 +679,7 @@ Version 14.3.1 is a maintenance release that focuses on speed, stability, and se
 **Fixes** 
 
 * Added the ability to remove your avatar image.
-* Fixed an issue preventing you from unlinking your [!DNL Adobe Media Optimizer] accounts.
+* Fixed an issue preventing you from unlinking your [!DNL Adobe Advertising Cloud] accounts.
 
 **Known Issues** 
 
@@ -626,22 +687,22 @@ Version 14.3.1 is a maintenance release that focuses on speed, stability, and se
 * Refreshing a card from [!DNL Analytics] can sometimes lead to an empty chart in the expanded card.
 * Users must log out and log back in for all permission and entitlement changes to take effect.
 * When *`Remember me`* is not selected during login, the user will be logged out after 15 minutes.
-* [!DNL Analytics] solution landing page shows formatting errors.
+* [!DNL Analytics] application landing page shows formatting errors.
 * The Comments link on asset card view is not selectable.
 * Experience Cloud interface can slow down when in parallel use by many users
 * Experience Cloud cannot be linked to [!DNL Adobe Target], if the [!DNL Adobe Target] login can be used on multiple Target servers.
 * Logging in to Experience Cloud takes longer than a second.
 * After adding a custom tag to an asset, no other metadata changes can be persisted.
-* [!DNL Adobe Media Optimizer] does not create users automatically when user has been created in Experience Cloud.
+* [!DNL Adobe Advertising Cloud] does not create users automatically when user has been created in Experience Cloud.
 * Options in combo boxes for adding new users temporarily disappear while typing.
-* Data shared from [!DNL Media Optimizer] is mis-represented in Experience Cloud.
+* Data shared from [!DNL Advertising Cloud] is mis-represented in Experience Cloud.
 * Sharing Flickr images fails.
 * Filters applied to trended reports from [!DNL Analytics] are not applied to cards in Experience Cloud.
 * Group and entitlement changes made in user management only take effect after a new login.
 * [!DNL Search&Promote] linking is not available from [!UICONTROL Organizations & Product Access].
 * Users have to refresh the board to make the deleted cards disappear from view.
 * Some Excel or CSV files cannot be uploaded to a board.
-* [!DNL Adobe Media Optimizer] simulation cards are not rendering correctly.
+* [!DNL Adobe Advertising Cloud] simulation cards are not rendering correctly.
 * Some PNG files cannot be rendered on a card.
 * Beta feedback cannot be submitted.
 
@@ -662,7 +723,7 @@ Version 14.3.1 is a maintenance release that focuses on speed, stability, and se
   <tr> 
    <td colname="col1"> <p>Refresh Data </p> </td> 
    <td colname="col2"> <p> 
-     <!--MAC-18174-->The <span class="uicontrol"> Refresh Data</span> icon for a graph on a card is now hidden if the solution does not allow a data refresh. </p> </td> 
+     <!--MAC-18174-->The <span class="uicontrol"> Refresh Data</span> icon for a graph on a card is now hidden if the application does not allow a data refresh. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -670,6 +731,6 @@ Version 14.3.1 is a maintenance release that focuses on speed, stability, and se
 **Fixes** 
 
 * Fixed an issue that prevented shared [!DNL Analytics] reports from applying segment filters.
-* Fixed an issue causing solutions to display on the [!UICONTROL Experience Cloud Solutions] page as linked, even if the solutions accounts were not linked.
+* Fixed an issue causing applications to display on the [!UICONTROL Experience Cloud Solutions] page as linked, even if the applications accounts were not linked.
 * Fixed an issue that prevented [!DNL Adobe Target] customers in Asia from being able to select the **[!UICONTROL Continue to Experience Cloud]** button on the linking page.
 * Fixed an issue that prevented the sharing of YouTube videos.

@@ -1,9 +1,7 @@
 ---
 description: Learn about administrative tools for managing approved Creative Cloud users in Experience Cloud. 
-keywords: asset sharing;Creative Cloud;core services
 solution: Experience Cloud
 title: Manage Creative Cloud users 
-uuid: 11c4de67-40c5-4438-92fc-e23761be3f18
 feature: Assets
 topic: Administration
 role: Admin
@@ -20,6 +18,6 @@ The Experience Cloud provides administrative tools for managing approved Creativ
 
 1. In the Experience Cloud, select **[!UICONTROL Administration]** > **[!UICONTROL Manage Creative Cloud Collaborators]**.
 1. Select **[!UICONTROL Creative Cloud Asset Sharing]**.
-1. Select **[!UICONTROL Add New User]**.  ![](assets/mac_add_icon.png)
+1. Select **[!UICONTROL Add New User]**.  ![add new user](assets/mac_add_icon.png)
 1. Type an email, display name, title, and optionally add an Avatar.
 1. Select **[!UICONTROL Create]**.

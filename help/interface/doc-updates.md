@@ -1,6 +1,5 @@
 ---
 description: Information about updates to Adobe Experience Cloud help.
-keywords: Experience Cloud services
 solution: Experience Cloud
 title: Documentation updates
 uuid: f41c4e9f-e784-4706-8c4b-f430c953670d
@@ -13,6 +12,43 @@ exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 # Documentation updates - Experience Cloud
 
 Information about updates to the Experience Cloud product documentation.
+
+**Updated 2/28/2022**
+
+Added a page for [Unified Search](search-experience-cloud.md)
+
+**Updated 2/8/2022**
+
+Updates to how you can find your [organization ID](organizations.md).
+
+**Updated 12/13/2021**
+
+Updated the [administration FAQ](faq.md) with information about how Adobe Support can access your Adobe cloud environment to troubleshoot an issue.
+
+**Updated 10/28/2021**
+
+| Feature | Description |
+| ------- | ------- |
+|Home Page |Experience Cloud home footer information has been moved to the user profile card, including Legal Notices and language selection in Preferences. |
+|AEP Dashboards |[!DNL Helios Lite] provides chart recommendations within the Experience Platform widget creation workflow. Given a data selection (currently single variable data selection), helios recommends an appropriate visualization to accompany that data selection.|
+|AEP Dashboards |[!DNL Instory] provides ML-based written narration and captions for charts. It decorates charts in the AEP Dashboards page with relevant bullet points calling out major changes and incidents in the graphed data. |
+
+**Updated 10/13/2021**
+
+| Feature | Description |
+| ------- | ------- |
+|Unified Search |Unified Search continues to add objects types to the search index. In this update, global search now searches across Experience League content and the following Journey Optimizer object types: <ul><li>Datasets</li><li>Destinations</li><li>Queries</li><li>Schemas</li><li>Segments</li><li>Sources</li><li>Offers</li><li>Components</li><li>Messages</li><li>Journeys</li></ul> |
+|Product usage data consent  |Upon an initial login, you are asked to submit preferences for how Adobe can provide you with helpful, personalized content, such as tutorials, guides, quick tips, recommendations, learning videos and more, based on your Experience Cloud product usage data. This request also includes an update to your preferences for collection and usage of these data at <https://experience.adobe.com/preferences>.|
+|Experience Cloud [!UICONTROL Triggers] navigation  |[Experience Cloud Triggers](https://experienceleague.adobe.com/docs/core-services/interface/services/activation/triggers.html?lang=en) is available for direct navigation from the application switcher in the header for provisioned users.    |
+|**Notice:** Planned interface navigation update|In November 2021, the _[!UICONTROL Go to Launch / Data Collection]_ navigation feature will be removed from <https://experience.adobe.com/implement>.|
+
+**Updated 8/24/2021**
+
+Updated [Central Components](experience-cloud.md) page (this guide's landing page). Added browser and language support, updates to organizations, sign-in, and added information about domains.
+
+**Updated 8/6/2021**
+
+Updated [First Party Cookies](cookies-first-party.md).
 
 **Updated: 6/4/2021**
 
@@ -87,7 +123,7 @@ Added [Experience Cloud Assets](experience-cloud-assets.md#concept_DDA5224C907D4
 
 **Updated: 3/2/2015**
 
-Added [Enable your solutions for core services](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)
+Added [Enable your applications for core services](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)
 
 **Updated: 1/15/2015**
 

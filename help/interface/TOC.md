@@ -2,16 +2,18 @@
 audience: administrator
 user-guide-title: Experience Cloud Central Interface Components 
 breadcrumb-title: Experience Cloud Central Interface Components
-user-guide-description: Learn about Experience Cloud's interface, configure preferences, search for help and business objects. Get help on user and product management, Customer Attributes, Audience Library, cookies, and Experience Cloud Assets.
+title: Experience Cloud Interface and Administration Guide
+description: Learn about Experience Cloud interface and user account preferences. Learn how to search for business objects, and manage users and products. Configure Customer Attributes, Audience Library, cookies, and share Experience Cloud Assets.
 index: yes
 ---
 
 # Experience Cloud Central Interface Components {#interface}
 
-+ [Experience Cloud Central Interface Components Guide](experience-cloud.md)
++ [Experience Cloud Central Interface Components guide](experience-cloud.md)
 + Experience Cloud services {#services}
   + [Experience Cloud services](core-services-landing.md)
-  + [Enable your implementation for cross-solution services](core-services.md)
+  + [Unified Search in Experience Cloud](search-experience-cloud.md)
+  + [Enable your implementation for cross-application services](core-services.md)
   + Experience Cloud Audience Library {#audiences}
     + [Experience Cloud audiences](audience-library.md)
     + [Create an audience](t-audience-create.md)
@@ -30,7 +32,7 @@ index: yes
     + [Privacy considerations for Customer Attributes](privacy-mac.md)
   + Experience Cloud Activation {#activation}
     + [Activation overview](activation.md)
-    + [Experience Platform Launch user guide](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=en)
+    + [Experience Platform Launch user guide](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en)
     + [Triggers](triggers.md)
   + Experience Cloud Assets {#assets}
     + [Experience Cloud assets overview](experience-cloud-assets.md)
@@ -48,7 +50,7 @@ index: yes
   + [Organizations and account linking](organizations.md)
   + [Upgrading to Analytics Premium and the Experience Cloud](upgrade-to-analytics-premium.md)
   + [Experience Cloud integrations](marketing-cloud-integrations.md)
-  + [Using DNS prefetch with different solutions and services](dns-prefetch.md)
+  + [Using DNS prefetch with different applications and services](dns-prefetch.md)
   + Experience Cloud cookies {#ec-cookies}
     + [Experience Cloud cookies overview](cookies-privacy.md)
     + [First-party cookies in Experience Cloud](cookies-first-party.md)

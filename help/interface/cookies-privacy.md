@@ -1,6 +1,5 @@
 ---
 description: Learn about cookies and privacy in Adobe Experience Cloud solutions and services.
-keywords: cookies;privacy
 solution: Experience Cloud,Analytics,Target
 title: Cookies and privacy 
 uuid: 7fb36845-6282-438a-bbc6-0c3cf95de1c9
@@ -24,8 +23,8 @@ For example, data contained in cookies set from the Adobe.com website cannot be 
 
 The following diagram illustrates cookie usage for a standard image request: 
 
-![](assets/CookiesProcessGraphic-01.png)
+![Cookie usage for a standard image request](assets/CookiesProcessGraphic-01.png)
 
 The following diagram illustrates cookie usage for a straight image request (used in scenarios where a JS file is not loaded): 
 
-![](assets/CookiesProcessGraphic2.png)
+![Cookie usage for a straight image request](assets/CookiesProcessGraphic2.png)

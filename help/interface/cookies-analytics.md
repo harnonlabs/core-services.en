@@ -1,6 +1,5 @@
 ---
 description: Learn about Adobe Analytics cookies in Adobe Experience Cloud.
-keywords: cookies;privacy
 solution: Experience Cloud,Analytics,Target
 title: Analytics Cookies 
 uuid: e2d3d61d-2708-48b2-a7e6-2331f2aed8e0
