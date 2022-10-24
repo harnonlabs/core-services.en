@@ -12,13 +12,13 @@ exl-id: c4399cc0-8333-47b8-b830-2ba7359f464a
 ---
 # Adobe Target Cookies{#target-cookies}
 
-Adobe Target uses cookies to give website operators the ability to test which online content and offers are more relevant to visitors.
+[!DNL Adobe Target] uses cookies to give website operators the ability to test which online content and offers are more relevant to visitors.
 
 You can change these settings if needed, except for the cookie duration. Consult your account representative when changing cookie settings.
 
 >[!NOTE]
 >
->Adobe Target users can also create customized third-party cookies.
+>[!DNL Adobe Target] users can also create customized third-party cookies.
 
 |Setting|Information|
 | --- | --- |
