@@ -14,6 +14,7 @@ index: yes
   + [Experience Cloud services](core-services-landing.md)
   + [Unified Search in Experience Cloud](search-experience-cloud.md)
   + [Enable your implementation for cross-application services](core-services.md)
+  + [Experience Cloud Personalized Learning Preferences](personalized-learning-preferences.md)
   + Experience Cloud Audience Library {#audiences}
     + [Experience Cloud audiences](audience-library.md)
     + [Create an audience](t-audience-create.md)
