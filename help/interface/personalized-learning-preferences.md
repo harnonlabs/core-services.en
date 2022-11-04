@@ -13,7 +13,8 @@ You can choose to allow us to provide you with helpful content that is tailored 
 * Features you'll likely use
 * And more!
 
-[Customize my learning](https://experience.adobe.com/?shell_forceuserconsent=true#/home){: .btn}
+[![](assets/personalized-learning-customized-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home)
+
 
 You can update your selections at any time in [User Preference Settings](https://experience.adobe.com/preferences/).
 
