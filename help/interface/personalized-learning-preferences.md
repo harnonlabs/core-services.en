@@ -14,7 +14,7 @@ You can choose to allow us to provide you with helpful content that is tailored 
 * Features you'll likely use
 * And more!
 
-[![](assets/personalized-learning-customized-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home)
+[![](assets/personalized-learning-customized-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="200"}
 
 
 You can update your selections at any time in [User Preference Settings](https://experience.adobe.com/preferences/).
@@ -96,12 +96,12 @@ You can update your selections at any time in [User Preference Settings](https:/
 
 ### In your Adobe products
 
-![](assets/personalized-learning-in-product.gif){width="500"}
+![](assets/personalized-learning-in-product.gif){width="800"}
 
 ### In email Adobe sends you
 
-![](assets/personalized-learning-email.png){width="500"}
+![](assets/personalized-learning-email.png){width="400"}
 
 ### In the Experience League Communities
 
-![](assets/personalized-learning-communities.png){width="500"}
+![](assets/personalized-learning-communities.png){width="800"}
