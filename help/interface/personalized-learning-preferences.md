@@ -4,6 +4,9 @@ solution: Experience Cloud
 title: Experience Cloud Personalized Learning Preferences
 feature: "Customer Attributes"
 ---
+
+![](personalized-learning-marquee-desktop.jpeg)(width=100%)
+
 # Personalized learning recommendations and promotions
 
 You can choose to allow us to provide you with helpful content that is tailored to you based on your work in your Adobe products. Select your preferences from the options below, and you'll be provided learning information that is relevant to:
