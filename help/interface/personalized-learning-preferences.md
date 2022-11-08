@@ -2,9 +2,9 @@
 description: Learn about personalized learning preferences in Experience Cloud. This allows customers to receive personalized help and promotions via email, in their Adobe Experience Cloud products, and within the Adobe Experience League Communities based on their Usage Data.
 solution: Experience Cloud
 title: Experience Cloud Personalized Learning Preferences
-feature: "Customer Attributes"
+feature: Customer Attributes
+exl-id: ad6c8daf-c8ad-42e9-8ff0-cef59dc0da3f
 ---
-
 # Personalized learning recommendations and promotions
 
 You can choose to allow us to provide you with helpful content that is tailored to you based on your work in your Adobe products. Select your preferences from the options below, and you'll be provided learning information that is relevant to:
