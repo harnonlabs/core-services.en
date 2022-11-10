@@ -14,7 +14,7 @@ You can choose to allow us to provide you with helpful content that is tailored 
 * Features you'll likely use
 * And more!
 
-[![](assets/personalized-learning-customized-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="200"}
+[![](assets/personalized-learning-customized-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="10%"}
 
 
 You can update your selections at any time in [User Preference Settings](https://experience.adobe.com/preferences/).
@@ -31,8 +31,6 @@ You can update your selections at any time in [User Preference Settings](https:/
 <tbody>
   <tr>
     <td colspan="3">Receive relevant best practices, tips & tricks, helpful walk throughs, and more based on your use of your Adobe products in each of these three ways...</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>In your Adobe products...<br></td>
@@ -45,7 +43,7 @@ You can update your selections at any time in [User Preference Settings](https:/
   </tr>
   <tr>
     <td>In email Adobe sends you...</td>
-    <td>Seeing learning content that relates to your work in your product(s)</td>
+    <td>Seeing learning content that relates to your work in your product(s).</td>
   </tr>
   <tr>
     <td>In the Experience League Communities..</td>
@@ -66,8 +64,6 @@ You can update your selections at any time in [User Preference Settings](https:/
 <tbody>
   <tr>
     <td colspan="3">Receive tailored opportunities for learning events, research sessions, and integrations based on your work in each of these three ways...</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>In your Adobe products...<br></td>
@@ -91,6 +87,9 @@ You can update your selections at any time in [User Preference Settings](https:/
 </table>
 
 
+[![](assets/personalized-learning-customized-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="200"}
+
+
 ## See examples of how this customized learning information might look.
 
 
@@ -105,3 +104,5 @@ You can update your selections at any time in [User Preference Settings](https:/
 ### In the Experience League Communities
 
 ![](assets/personalized-learning-communities.png){width="800"}
+
+[![](assets/personalized-learning-customized-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="200"}
