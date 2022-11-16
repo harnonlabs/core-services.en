@@ -20,18 +20,15 @@ You can choose to allow us to provide you with helpful content that is tailored 
 You can update your selections at any time in [User Preference Settings](https://experience.adobe.com/preferences/).
 
 
+
+
+
 ## Personalized training and support recommendations for your Adobe products and services
 
+Receive relevant best practices, tips & tricks, helpful walk throughs, and more based on your use of your Adobe products in each of these three ways...
+
 <table>
-<thead>
-  <tr>
-    <th colspan="3">Personalized training and support recommendations for your Adobe products and services</th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td colspan="3">Receive relevant best practices, tips & tricks, helpful walk throughs, and more based on your use of your Adobe products in each of these three ways...</td>
-  </tr>
   <tr>
     <td>In your Adobe products...<br></td>
     <td>See pop ups and tool tips for real-time help.</td>
@@ -53,18 +50,13 @@ You can update your selections at any time in [User Preference Settings](https:/
 </table>
 
 
+
 ## Personalized information about Adobe products, services, events, and promotions
 
+Receive tailored opportunities for learning events, research sessions, and integrations based on your work in each of these three ways...
+
 <table>
-<thead>
-  <tr>
-    <th colspan="3">Personalized information about Adobe products, services, events, and promotions</th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td colspan="3">Receive tailored opportunities for learning events, research sessions, and integrations based on your work in each of these three ways...</td>
-  </tr>
   <tr>
     <td>In your Adobe products...<br></td>
     <td>See pop ups and tool tips for invitations and opportunities relevant to you.</td>
@@ -90,6 +82,9 @@ You can update your selections at any time in [User Preference Settings](https:/
 [![](assets/personalized-learning-customized-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="10%"}
 
 
+
+
+
 ## See examples of how this customized learning information might look.
 
 
@@ -97,9 +92,13 @@ You can update your selections at any time in [User Preference Settings](https:/
 
 ![](assets/personalized-learning-in-product.gif){width="800"}
 
+
+
 ### In email Adobe sends you
 
 ![](assets/personalized-learning-email.png){width="400"}
+
+
 
 ### In the Experience League Communities
 
