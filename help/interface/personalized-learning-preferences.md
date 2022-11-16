@@ -14,7 +14,7 @@ You can choose to allow us to provide you with helpful content that is tailored 
 * Features you'll likely use
 * And more!
 
-[![](assets/personalized-learning-customized-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="10%"}
+[![](assets/personalized-learning-customize-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="10%"}
 
 
 You can update your selections at any time in [User Preference Settings](https://experience.adobe.com/preferences/).
@@ -79,8 +79,7 @@ Receive tailored opportunities for learning events, research sessions, and integ
 </table>
 
 
-[![](assets/personalized-learning-customized-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="10%"}
-
+[![](assets/personalized-learning-customize-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="10%"}
 
 
 
@@ -104,4 +103,6 @@ Receive tailored opportunities for learning events, research sessions, and integ
 
 ![](assets/personalized-learning-communities.png){width="800"}
 
-[![](assets/personalized-learning-customized-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="10%"}
+
+
+[![](assets/personalized-learning-customize-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="10%"}
