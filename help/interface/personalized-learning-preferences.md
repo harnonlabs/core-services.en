@@ -17,7 +17,7 @@ You can choose to allow us to provide you with helpful content that is tailored 
 [![](assets/personalized-learning-customize-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="10%"}
 
 
-You can update your selections at any time in [User Preference Settings](https://experience.adobe.com/preferences/).
+You can update your selections at any time in the Product Data Usage and Collection section in your [User Preference Settings](https://experience.adobe.com/preferences/).
 
 
 
@@ -32,7 +32,7 @@ Receive relevant best practices, tips & tricks, helpful walk throughs, and more 
   <tr>
     <td>In your Adobe products...<br></td>
     <td>See pop ups and tool tips for real-time help.</td>
-    <td rowspan="3">This could include... <ul><li>Step by step guides and helpful tips from Adobe experts</li> 
+    <td rowspan="3">This could include... <ul><li>Step-by-step guides and helpful tips from Adobe experts</li> 
     <li>Video tutorials and informational walkthroughs</li> 
     <li>In-depth training and education</li> 
     <li>Recommendations for videos and posts</li>
